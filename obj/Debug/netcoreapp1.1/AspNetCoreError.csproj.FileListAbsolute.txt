@@ -1,0 +1,10 @@
+c:\users\mitin\documents\visual studio 2017\Projects\AspNetCoreError\AspNetCoreError\bin\Debug\netcoreapp1.1\AspNetCoreError.deps.json
+c:\users\mitin\documents\visual studio 2017\Projects\AspNetCoreError\AspNetCoreError\bin\Debug\netcoreapp1.1\AspNetCoreError.runtimeconfig.json
+c:\users\mitin\documents\visual studio 2017\Projects\AspNetCoreError\AspNetCoreError\bin\Debug\netcoreapp1.1\AspNetCoreError.runtimeconfig.dev.json
+c:\users\mitin\documents\visual studio 2017\Projects\AspNetCoreError\AspNetCoreError\bin\Debug\netcoreapp1.1\AspNetCoreError.dll
+c:\users\mitin\documents\visual studio 2017\Projects\AspNetCoreError\AspNetCoreError\bin\Debug\netcoreapp1.1\AspNetCoreError.pdb
+c:\users\mitin\documents\visual studio 2017\Projects\AspNetCoreError\AspNetCoreError\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\mitin\documents\visual studio 2017\Projects\AspNetCoreError\AspNetCoreError\obj\Debug\netcoreapp1.1\AspNetCoreError.AssemblyInfo.cs
+c:\users\mitin\documents\visual studio 2017\Projects\AspNetCoreError\AspNetCoreError\obj\Debug\netcoreapp1.1\AspNetCoreError.dll
+c:\users\mitin\documents\visual studio 2017\Projects\AspNetCoreError\AspNetCoreError\obj\Debug\netcoreapp1.1\AspNetCoreError.pdb
+C:\Users\mitin\documents\visual studio 2017\Projects\AspNetCoreError\AspNetCoreError\obj\Debug\netcoreapp1.1\AspNetCoreError.csprojResolveAssemblyReference.cache
